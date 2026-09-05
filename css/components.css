@@ -393,7 +393,9 @@
 .footer-brand { padding-right: var(--space-6); }
 
 .footer-brand-logo {
-  height: 40px;
+  height: 48px;
+  width: auto;
+  object-fit: contain;
   margin-bottom: var(--space-4);
 }
 
